@@ -26,7 +26,7 @@ with and manage remote devices running an
 [mcumgr server](https://github.com/apache/mynewt-mcumgr).
 
 The `mcumgr` tool is a thin wrapper over the Apache `newtmgr` tool.  Thus, the
-[`newtmgr` documentation](http://mynewt.apache.org/latest/newtmgr/overview/)
+[`newtmgr` documentation](http://mynewt.apache.org/latest/newtmgr/index.html)
 provides some useful help with using the `mcumgr` tool.
 
 ### Building
