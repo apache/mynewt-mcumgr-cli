@@ -50,7 +50,6 @@ github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINE
 github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/raff/goble v0.0.0-20170814221208-b12b34f940c4 h1:wa4KKsyv+e7TmpzAfp+TWXG+3s/ZWaQ4QsVqMU5oUrk=
 github.com/raff/goble v0.0.0-20170814221208-b12b34f940c4/go.mod h1:CxaUhijgLFX0AROtH5mluSY71VqpjQBw9JXE2UKZmc4=
 github.com/runtimeco/go-coap v0.0.0-20180109101419-47c23e2a63ea h1:zTOcylKcdobkyW4gySyvvHkAGnOP0QNcGaO0ZQJFgxQ=
 github.com/runtimeco/go-coap v0.0.0-20180109101419-47c23e2a63ea/go.mod h1:x/rLuxedbWFDN497ZirUaDklkWz6JhZLjGdgurMysxM=
@@ -61,6 +60,7 @@ github.com/sirupsen/logrus v1.4.2 h1:SPIRibHv4MatM3XXNO2BJeFLZwZ2LvZgfQ5+UNI2im4
 github.com/sirupsen/logrus v1.4.2/go.mod h1:tLMulIdttU9McNUspp0xgXVQah82FyeX6MwdIuYE2rE=
 github.com/spf13/afero v1.1.2/go.mod h1:j4pytiNVoe2o6bmDsKpLACNPDBIoEAkihy7loJ1B0CQ=
 github.com/spf13/cast v1.2.0/go.mod h1:r2rcYCSwa1IExKTDiTfzaxqT2FNHs8hODu4LnUfgKEg=
+github.com/spf13/cast v1.3.0 h1:oget//CVOEoFewqQxwr0Ej5yjygnqGkvggSE/gB35Q8=
 github.com/spf13/cast v1.3.0/go.mod h1:Qx5cxh0v+4UWYiBimWS+eyWzqEqokIECu5etghLkUJE=
 github.com/spf13/cobra v0.0.3/go.mod h1:1l0Ry5zgKvJasoi3XT1TypsSe7PqH0Sj9dhYf7v3XqQ=
 github.com/spf13/cobra v0.0.5 h1:f0B+LkLX6DtmRH1isoNA9VTtNUK9K8xYd28JNNfOv/s=
@@ -74,8 +74,8 @@ github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+
 github.com/stretchr/objx v0.1.1/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
-github.com/tarm/serial v0.0.0-20170530023055-e50d7d20b1f6 h1:4D7IbZRb3ZNaCXr262suXQo+kS7huEZTLTFhZHK+81g=
-github.com/tarm/serial v0.0.0-20170530023055-e50d7d20b1f6/go.mod h1:kDXzergiv9cbyO7IOYJZWg1U88JhDg3PB6klq9Hg2pA=
+github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07 h1:UyzmZLoiDWMRywV4DUYb9Fbt8uiOSooupjTq10vpvnU=
+github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07/go.mod h1:kDXzergiv9cbyO7IOYJZWg1U88JhDg3PB6klq9Hg2pA=
 github.com/ugorji/go v1.1.7 h1:/68gy2h+1mWMrwZFeD1kQialdSzAb432dtpeJ42ovdo=
 github.com/ugorji/go v1.1.7/go.mod h1:kZn38zHttfInRq0xu/PH0az30d+z6vm202qpg1oXVMw=
 github.com/ugorji/go/codec v0.0.0-20181204163529-d75b2dcb6bc8/go.mod h1:VFNgLljTbGfSG7qAOspJ7OScBnGdDN/yBr0sguwnwf0=
@@ -106,5 +106,5 @@ gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
 mynewt.apache.org/newt v0.0.0-20190515182908-60fc2df06bfc/go.mod h1:lFsPYOHxMMWA11pydOeh0GVFiXtx0A9VnzOQ6SiRR88=
 mynewt.apache.org/newt v0.0.0-20190723172213-9f7829a76fef h1:DqtTWY5aQuqBwHpBrjL+kT89ojgeMxWSvEzDnUA2OT8=
 mynewt.apache.org/newt v0.0.0-20190723172213-9f7829a76fef/go.mod h1:oOnor4yY/stqy8RmNmk5UAE9zssKixi68pl805wtCVo=
-mynewt.apache.org/newtmgr v0.0.0-20190723171101-95b413e2846c h1:qjFI3NCDHQLWuUuPM8/9dO27lTEWYr//C44gSAODMzk=
-mynewt.apache.org/newtmgr v0.0.0-20190723171101-95b413e2846c/go.mod h1:tVzNTVfp+e4nql8MTBX4vA0s5Gx3Fe80ENfZOwatDVM=
+mynewt.apache.org/newtmgr v0.0.0-20190801165443-4ba7e39aca9f h1:6su567b13mgaBMakTo92GFboYjT7KGoJdMYBszd9UEI=
+mynewt.apache.org/newtmgr v0.0.0-20190801165443-4ba7e39aca9f/go.mod h1:AEQCGhOKwH5FxIzQCNwvdRP3kd7Uuje9iwVElZ06m34=
