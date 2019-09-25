@@ -3,6 +3,6 @@ module github.com/apache/mynewt-mcumgr-cli
 go 1.12
 
 require (
-	mynewt.apache.org/newt v0.0.0-20190723172213-9f7829a76fef
-	mynewt.apache.org/newtmgr v0.0.0-20190808223606-13b828d6f85f
+	mynewt.apache.org/newt v0.0.0-20190805215728-4e771ee138aa
+	mynewt.apache.org/newtmgr v0.0.0-20190909210301-5029f07bf173
 )
