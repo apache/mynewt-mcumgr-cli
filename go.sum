@@ -1,6 +1,7 @@
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/JuulLabs-OSS/ble v0.0.0-20200716215611-d4fcc9d598bb h1:kIZ7fr8RxucJXNHifPxm71yiWuzpw0SmjlafMzoOd0U=
 github.com/JuulLabs-OSS/ble v0.0.0-20200716215611-d4fcc9d598bb/go.mod h1:6deIuswYSv6W1l3sM/nonw0OKWtIZCn7ZOWvIREoq2A=
+github.com/JuulLabs-OSS/cbgo v0.0.1 h1:A5JdglvFot1J9qYR0POZ4qInttpsVPN9lqatjaPp2ro=
 github.com/JuulLabs-OSS/cbgo v0.0.1/go.mod h1:L4YtGP+gnyD84w7+jN66ncspFRfOYB5aj9QSXaFHmBA=
 github.com/NickBall/go-aes-key-wrap v0.0.0-20170929221519-1c3aa3e4dfc5/go.mod h1:w5D10RxC0NmPYxmQ438CC1S07zaC1zpvuNW7s5sUk2Q=
 github.com/abiosoft/ishell v2.0.0+incompatible/go.mod h1:HQR9AqF2R3P4XXpMpI0NAzgHf/aS6+zVXRj14cVk9qg=
@@ -59,6 +60,7 @@ github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/raff/goble v0.0.0-20190909174656-72afc67d6a99/go.mod h1:CxaUhijgLFX0AROtH5mluSY71VqpjQBw9JXE2UKZmc4=
+github.com/raff/goble v0.0.0-20200327175727-d63360dcfd80 h1:IZkjNgPZXcE4USkGzmJQyHco3KFLmhcLyFdxCOiY6cQ=
 github.com/raff/goble v0.0.0-20200327175727-d63360dcfd80/go.mod h1:CxaUhijgLFX0AROtH5mluSY71VqpjQBw9JXE2UKZmc4=
 github.com/runtimeco/go-coap v0.0.0-20190911184520-8e5532820fc0 h1:WOVbcRe5kFuLbhZdyz8PKVR6L22C6I48fWIUS5ucpGY=
 github.com/runtimeco/go-coap v0.0.0-20190911184520-8e5532820fc0/go.mod h1:x/rLuxedbWFDN497ZirUaDklkWz6JhZLjGdgurMysxM=
@@ -109,6 +111,8 @@ golang.org/x/sys v0.0.0-20190422165155-953cdadca894/go.mod h1:h1NjWce9XRLGQEsW7w
 golang.org/x/sys v0.0.0-20200116001909-b77594299b42/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/sys v0.0.0-20200223170610-d5e6a3e2c0ae h1:/WDfKMnPU+m5M4xB+6x4kaepxRw6jWvR5iDRdvjHgy8=
 golang.org/x/sys v0.0.0-20200223170610-d5e6a3e2c0ae/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.0.0-20220608164250-635b8c9b7f68 h1:z8Hj/bl9cOV2grsOpEaQFUaly0JWN3i97mo3jXKJNp0=
+golang.org/x/sys v0.0.0-20220608164250-635b8c9b7f68/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 gopkg.in/VividCortex/ewma.v1 v1.1.1/go.mod h1:TekXuFipeiHWiAlO1+wSS23vTcyFau5u3rxXUSXj710=
 gopkg.in/abiosoft/ishell.v2 v2.0.0 h1:/J5yh3nWYSSGFjALcitTI9CLE0Tu27vBYHX0srotqOc=
